@@ -19,10 +19,6 @@ The following **optional** features are implemented:
 - [X] Improve and customize the user interface by adding a launchscreen and app icon
 - [X] Run the app on a device rather than in the simulator
 
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
-
 ## Video Walkthrough
 
 <div>
@@ -36,7 +32,7 @@ The following **additional** features are implemented:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The main challenge I faced was during exercise 3, assigning a closure. Going into it I didnt really undersand closures in general, but being able to refer back the the slides from the course really helped.
 
 ## License
 
